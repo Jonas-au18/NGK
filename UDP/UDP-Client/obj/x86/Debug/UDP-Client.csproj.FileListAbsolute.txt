@@ -1,0 +1,6 @@
+/root/Projects/UDP/UDP-Client/obj/x86/Debug/UDP-Client.csproj.CoreCompileInputs.cache
+/root/Projects/UDP/UDP-Client/bin/Debug/UDP-Client.exe
+/root/Projects/UDP/UDP-Client/bin/Debug/UDP-Client.pdb
+/root/Projects/UDP/UDP-Client/obj/x86/Debug/UDP-Client.exe
+/root/Projects/UDP/UDP-Client/obj/x86/Debug/UDP-Client.pdb
+/root/Projects/UDP/UDP-Client/obj/x86/Debug/UDP-Client.csprojResolveAssemblyReference.cache
